@@ -1,0 +1,27 @@
+{
+  "name": "portfolio-p",
+  "version": "1.0.0",
+  "description": "Mi Portfolio",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/josueguido/Mi-Portfolio.git"
+  },
+  "author": "Josue Daniel Guido Beteta",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/josueguido/Mi-Portfolio/issues"
+  },
+  "homepage": "https://github.com/josueguido/Mi-Portfolio#readme",
+  "dependencies": {
+    "eins-modal": "^2.2.2",
+    "normalize.css": "^8.0.1"
+  },
+  "devDependencies": {
+    "webpack": "^5.85.0",
+    "webpack-cli": "^5.1.1"
+  }
+}
